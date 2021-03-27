@@ -1,5 +1,5 @@
 # MusicGame
-This is a Osu Clone game which uses the pygame module as its game engine. Currently, this only has 1 finished song but you can import any song you like.
+This is an Osu Clone game that uses the pygame module as its game engine. Currently, this only has 1 finished song but you can import any song you like.
 
 # How to play the game
 You just press spacebar when the beats are inside the white circle. The goal of the game is to have a high score
