@@ -1,0 +1,1 @@
+c:\Users\johnl\PycharmProjects\MusicGame\venv\Scripts\python.exe %cd%\main.pyw %*
